@@ -3,7 +3,7 @@
 _Software Engineering student at <a>University of Malaya<a>_<br>
 _Co-Founder/Developer at student-led startup <a>Agentic Friday<a>_
 
-[![Linkedin: nerissa23](https://img.shields.io/badge/-nerissa23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerissaibrahim/)](https://www.linkedin.com/in/nerissaibrahim/)
+[![Linkedin: nerissa23](https://img.shields.io/badge/-nerissaibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerissaibrahim/)](https://www.linkedin.com/in/nerissaibrahim/)
 [![GitHub followers](https://img.shields.io/github/followers/nerissa23?label=Follow&style=social)](https://github.com/nerissa23)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me:
